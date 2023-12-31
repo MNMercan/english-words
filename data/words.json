@@ -1,0 +1,492 @@
+[
+  {
+    "word_id": 1,
+    "word": {
+      "en": "hello",
+      "tr": "merhaba"
+    }
+  },
+  {
+    "word_id": 2,
+    "word": {
+      "en": "world",
+      "tr": "dunya"
+    }
+  },
+  {
+    "word_id": 3,
+    "word": {
+      "en": "name",
+      "tr": "isim"
+    }
+  },
+  {
+    "word_id": 4,
+    "word": {
+      "en": "age",
+      "tr": "yas"
+    }
+  },
+  {
+    "word_id": 5,
+    "word": {
+      "en": "peace",
+      "tr": "baris"
+    }
+  },
+  {
+    "word_id": 6,
+    "word": {
+      "en": "war",
+      "tr": "savas"
+    }
+  },
+  {
+    "word_id": 7,
+    "word": {
+      "en": "work",
+      "tr": "calis"
+    }
+  },
+  {
+    "word_id": 8,
+    "word": {
+      "en": "weightlifting",
+      "tr": "halter"
+    }
+  },
+  {
+    "word_id": 9,
+    "word": {
+      "en": "school",
+      "tr": "okul"
+    }
+  },
+  {
+    "word_id": 10,
+    "word": {
+      "en": "computer",
+      "tr": "bilgisayar"
+    }
+  },
+  {
+    "word_id": 1,
+    "word": {
+      "en": "hello",
+      "tr": "merhaba"
+    }
+  },
+  {
+    "word_id": 2,
+    "word": {
+      "en": "world",
+      "tr": "dunya"
+    }
+  },
+  {
+    "word_id": 3,
+    "word": {
+      "en": "name",
+      "tr": "isim"
+    }
+  },
+  {
+    "word_id": 4,
+    "word": {
+      "en": "age",
+      "tr": "yas"
+    }
+  },
+  {
+    "word_id": 5,
+    "word": {
+      "en": "peace",
+      "tr": "baris"
+    }
+  },
+  {
+    "word_id": 6,
+    "word": {
+      "en": "war",
+      "tr": "savas"
+    }
+  },
+  {
+    "word_id": 7,
+    "word": {
+      "en": "work",
+      "tr": "calis"
+    }
+  },
+  {
+    "word_id": 8,
+    "word": {
+      "en": "weightlifting",
+      "tr": "halter"
+    }
+  },
+  {
+    "word_id": 9,
+    "word": {
+      "en": "school",
+      "tr": "okul"
+    }
+  },
+  {
+    "word_id": 10,
+    "word": {
+      "en": "computer",
+      "tr": "bilgisayar"
+    }
+  },
+  {
+    "word_id": 1,
+    "word": {
+      "en": "hello",
+      "tr": "merhaba"
+    }
+  },
+  {
+    "word_id": 2,
+    "word": {
+      "en": "world",
+      "tr": "dunya"
+    }
+  },
+  {
+    "word_id": 3,
+    "word": {
+      "en": "name",
+      "tr": "isim"
+    }
+  },
+  {
+    "word_id": 4,
+    "word": {
+      "en": "age",
+      "tr": "yas"
+    }
+  },
+  {
+    "word_id": 5,
+    "word": {
+      "en": "peace",
+      "tr": "baris"
+    }
+  },
+  {
+    "word_id": 6,
+    "word": {
+      "en": "war",
+      "tr": "savas"
+    }
+  },
+  {
+    "word_id": 7,
+    "word": {
+      "en": "work",
+      "tr": "calis"
+    }
+  },
+  {
+    "word_id": 8,
+    "word": {
+      "en": "weightlifting",
+      "tr": "halter"
+    }
+  },
+  {
+    "word_id": 9,
+    "word": {
+      "en": "school",
+      "tr": "okul"
+    }
+  },
+  {
+    "word_id": 10,
+    "word": {
+      "en": "computer",
+      "tr": "bilgisayar"
+    }
+  },
+  {
+    "word_id": 1,
+    "word": {
+      "en": "hello",
+      "tr": "merhaba"
+    }
+  },
+  {
+    "word_id": 2,
+    "word": {
+      "en": "world",
+      "tr": "dunya"
+    }
+  },
+  {
+    "word_id": 3,
+    "word": {
+      "en": "name",
+      "tr": "isim"
+    }
+  },
+  {
+    "word_id": 4,
+    "word": {
+      "en": "age",
+      "tr": "yas"
+    }
+  },
+  {
+    "word_id": 5,
+    "word": {
+      "en": "peace",
+      "tr": "baris"
+    }
+  },
+  {
+    "word_id": 6,
+    "word": {
+      "en": "war",
+      "tr": "savas"
+    }
+  },
+  {
+    "word_id": 7,
+    "word": {
+      "en": "work",
+      "tr": "calis"
+    }
+  },
+  {
+    "word_id": 8,
+    "word": {
+      "en": "weightlifting",
+      "tr": "halter"
+    }
+  },
+  {
+    "word_id": 9,
+    "word": {
+      "en": "school",
+      "tr": "okul"
+    }
+  },
+  {
+    "word_id": 10,
+    "word": {
+      "en": "computer",
+      "tr": "bilgisayar"
+    }
+  },
+  {
+    "word_id": 1,
+    "word": {
+      "en": "hello",
+      "tr": "merhaba"
+    }
+  },
+  {
+    "word_id": 2,
+    "word": {
+      "en": "world",
+      "tr": "dunya"
+    }
+  },
+  {
+    "word_id": 3,
+    "word": {
+      "en": "name",
+      "tr": "isim"
+    }
+  },
+  {
+    "word_id": 4,
+    "word": {
+      "en": "age",
+      "tr": "yas"
+    }
+  },
+  {
+    "word_id": 5,
+    "word": {
+      "en": "peace",
+      "tr": "baris"
+    }
+  },
+  {
+    "word_id": 6,
+    "word": {
+      "en": "war",
+      "tr": "savas"
+    }
+  },
+  {
+    "word_id": 7,
+    "word": {
+      "en": "work",
+      "tr": "calis"
+    }
+  },
+  {
+    "word_id": 8,
+    "word": {
+      "en": "weightlifting",
+      "tr": "halter"
+    }
+  },
+  {
+    "word_id": 9,
+    "word": {
+      "en": "school",
+      "tr": "okul"
+    }
+  },
+  {
+    "word_id": 10,
+    "word": {
+      "en": "computer",
+      "tr": "bilgisayar"
+    }
+  },
+  {
+    "word_id": 1,
+    "word": {
+      "en": "hello",
+      "tr": "merhaba"
+    }
+  },
+  {
+    "word_id": 2,
+    "word": {
+      "en": "world",
+      "tr": "dunya"
+    }
+  },
+  {
+    "word_id": 3,
+    "word": {
+      "en": "name",
+      "tr": "isim"
+    }
+  },
+  {
+    "word_id": 4,
+    "word": {
+      "en": "age",
+      "tr": "yas"
+    }
+  },
+  {
+    "word_id": 5,
+    "word": {
+      "en": "peace",
+      "tr": "baris"
+    }
+  },
+  {
+    "word_id": 6,
+    "word": {
+      "en": "war",
+      "tr": "savas"
+    }
+  },
+  {
+    "word_id": 7,
+    "word": {
+      "en": "work",
+      "tr": "calis"
+    }
+  },
+  {
+    "word_id": 8,
+    "word": {
+      "en": "weightlifting",
+      "tr": "halter"
+    }
+  },
+  {
+    "word_id": 9,
+    "word": {
+      "en": "school",
+      "tr": "okul"
+    }
+  },
+  {
+    "word_id": 10,
+    "word": {
+      "en": "computer",
+      "tr": "bilgisayar"
+    }
+  },
+  {
+    "word_id": 1,
+    "word": {
+      "en": "hello",
+      "tr": "merhaba"
+    }
+  },
+  {
+    "word_id": 2,
+    "word": {
+      "en": "world",
+      "tr": "dunya"
+    }
+  },
+  {
+    "word_id": 3,
+    "word": {
+      "en": "name",
+      "tr": "isim"
+    }
+  },
+  {
+    "word_id": 4,
+    "word": {
+      "en": "age",
+      "tr": "yas"
+    }
+  },
+  {
+    "word_id": 5,
+    "word": {
+      "en": "peace",
+      "tr": "baris"
+    }
+  },
+  {
+    "word_id": 6,
+    "word": {
+      "en": "war",
+      "tr": "savas"
+    }
+  },
+  {
+    "word_id": 7,
+    "word": {
+      "en": "work",
+      "tr": "calis"
+    }
+  },
+  {
+    "word_id": 8,
+    "word": {
+      "en": "weightlifting",
+      "tr": "halter"
+    }
+  },
+  {
+    "word_id": 9,
+    "word": {
+      "en": "school",
+      "tr": "okul"
+    }
+  },
+  {
+    "word_id": 10,
+    "word": {
+      "en": "computer",
+      "tr": "bilgisayar"
+    }
+  }
+]
